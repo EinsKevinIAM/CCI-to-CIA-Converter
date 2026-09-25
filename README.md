@@ -7,3 +7,6 @@ How to use:
 5. select output folder
 6. press Convert
 7. Finished
+
+
+PS: If absolutly necessary, I can also upload a translated version.
