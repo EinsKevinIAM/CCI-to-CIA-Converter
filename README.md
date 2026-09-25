@@ -10,3 +10,5 @@ How to use:
 
 
 PS: If absolutly necessary, I can also upload a translated version.
+
+Disclaimer: Made by ChatGPT
