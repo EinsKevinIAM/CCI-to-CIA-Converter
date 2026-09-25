@@ -12,3 +12,6 @@ How to use:
 PS: If absolutly necessary, I can also upload a translated version.
 
 Disclaimer: Made by ChatGPT
+
+
+For questions, feedback or what ever: DC herrkster
